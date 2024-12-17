@@ -1,3 +1,4 @@
+#prove di funzioni
 #prova di acquisto e calcolo di spesa
 #metodo 1
 item = input("cosa vuoi comprare? ")
